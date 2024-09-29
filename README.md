@@ -1,8 +1,9 @@
-## Hi there 👋
+## 안녕하세요, 신입 개발자 이애린입니다. Thank you for visiting my GitHub!😊👋
 
-- 🌱 I’m currently learning ...
+- 🌱 README.md 파일은 수정 작업중입니다. 조만간 예뻐진 대문을 기대해주세요~✨
+- The README.md file is being modified. I'll be back with a pretty file soon!
 <!--
-**AeLinLee/AeLinLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AeLinLee/AeLinLee** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
